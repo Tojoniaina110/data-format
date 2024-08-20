@@ -1,0 +1,18 @@
+School:
+  name:HEI
+  year:2021
+  domain:Computer Science
+  numberOfStudents:200
+  Student:
+    name:Rakoto
+    ref:STD0001
+    group:
+      name:A1
+      year:2023
+      level:L2
+    name:Rabe
+    ref:STD0002
+    group:
+      name:A2
+      year:2023
+      level:L3

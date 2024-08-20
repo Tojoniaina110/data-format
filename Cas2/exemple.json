@@ -1,0 +1,29 @@
+{
+  "school":{
+    "name":"HEI",
+    "year":2021,
+    "domain":"Computer science",
+    "numberOfStudent":200,
+    "students":[
+      {
+        "name":"Rakoto",
+        "reference":"STD0001",
+        "group":{
+          "name":"A1",
+          "year":2023,
+          "level":"L2"
+        }
+      },
+      {
+        "name":"Rabe",
+        "reference":"STD0002",
+        "group":{
+          "name":"A2",
+          "year":2023,
+          "level":"L3"
+        }
+      }
+    ]
+    
+  }
+}
